@@ -1,8 +1,6 @@
 # Car-sales_Tableau-Dashboard
 PROBLEM STATEMENT
 
-D
-
 DATA TUTORIALS
 
 The dashboard should provide real-ume insights into key performance indicators (KPIs) related to our sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth.
