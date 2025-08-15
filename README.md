@@ -24,5 +24,6 @@ YOY Growth in Average Price
 YTD Cars Sold
 
 YOY Growth in Cars Sold
+![Alt text](https://github.com/nupur456/Car-sales_Tableau-Dashboard/blob/main/tableau%20dasboard%20problem%20statement.png)
 
 ![Alt text](https://github.com/nupur456/Car-sales_Tableau-Dashboard/blob/main/tableau%20dashboard%20screenshot.png)
